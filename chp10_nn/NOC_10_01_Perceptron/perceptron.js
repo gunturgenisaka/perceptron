@@ -1,13 +1,4 @@
-// Daniel Shiffman
-// The Nature of Code
-// http://natureofcode.com
 
-// Simple Perceptron Example
-// See: http://en.wikipedia.org/wiki/Perceptron
-
-// Perceptron Class
-
-// Perceptron is created with n weights and learning constant
 class Perceptron {
   constructor(n, c) {
     // Array of weights for inputs
